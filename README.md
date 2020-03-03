@@ -10,5 +10,5 @@ The plots above updates any time that a new sample is selected (via a dropdown).
 ## See the project in Action:
 Live link: https://jnnhuynh-web.github.io/Bellybutton-Biodiversity/ 
 
-## Screenshot
+## Screenshot:
 ![project screenshot](https://raw.githubusercontent.com/jnnhuynh-web/Bellybutton-Biodiversity/master/static/Project_Screenshot.png)
