@@ -6,3 +6,6 @@ Built an interactive dashboard to explore the [Belly Button Biodiversity dataset
  - a bubble chart that displays each sample.
  - the sample metadata, i.e., an individual's demographic information.
 The plots above updates any time that a new sample is selected (via a dropdown).
+
+## Screenshot
+![project screenshot](https://raw.githubusercontent.com/jnnhuynh-web/Bellybutton-Biodiversity/master/static/Project_Screenshot.png)
